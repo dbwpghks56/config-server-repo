@@ -36,7 +36,7 @@ spring:
     pathmatch:
       matching-strategy: ant_path_matcher
   boot:
-    message: hello, Department Updated
+    message: hello, Department Updated Twice
   # ?? ??? ?? ??
   servlet:
     multipart:
