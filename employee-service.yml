@@ -19,7 +19,8 @@ spring:
   profiles:
     include:
       - db
-
+  boot:
+    message: hello, Employee
   devtools:
     add-properties: false
 
