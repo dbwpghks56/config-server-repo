@@ -20,7 +20,7 @@ spring:
     include:
       - db
   boot:
-    message: hello, Employee
+    message: hello, Employee Updated
   devtools:
     add-properties: false
 
